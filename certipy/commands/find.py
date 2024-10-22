@@ -822,9 +822,9 @@ class Find:
                 "pKIExtendedKeyUsage",
                 "nTSecurityDescriptor",
                 "objectGUID",
-                "msPKI-Template-Schema-Version"
+                "msPKI-Template-Schema-Version",
                 "whenCreated",
-                "whenChanged",
+                "whenChanged"
             ],
             query_sd=True,
         )
