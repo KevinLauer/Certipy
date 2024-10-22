@@ -939,7 +939,7 @@ class Find:
             "validity_period": "Validity Period",
             "renewal_period": "Renewal Period",
             "msPKI-Minimal-Key-Size": "Minimum RSA Key Length",
-            "msPKI-Template-Schema-Version": "Template Schema Version"
+            "msPKI-Template-Schema-Version": "Template Schema Version",
             "msPKI-Minimal-Key-Size": "Minimum RSA Key Length",
             "whenCreated": "Template Created",
             "whenChanged": "Template Last Modified",
